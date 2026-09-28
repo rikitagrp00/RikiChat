@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357536699642",
+    "project_id": "rikichat-7b937",
+    "storage_bucket": "rikichat-7b937.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357536699642:android:36a882374158c6858fa543",
+        "android_client_info": {
+          "package_name": "com.rikichat.nitaistudio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnPIS1eeHy6HUHAcwxK9OouvDGjBCudS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

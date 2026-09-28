@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal_header">#075E54</color>
+    <color name="teal_header_dark">#054C44</color>
+    <color name="teal_primary">#128C7E</color>
+    <color name="accent_blue">#34B7F1</color>
+    <color name="brand_orange">#FF7A00</color>
+    <color name="call_green">#25D366</color>
+    <color name="call_red">#FF3B30</color>
+    <color name="chat_bg">#EFEAE2</color>
+    <color name="msg_out">#DCF8C6</color>
+    <color name="msg_in">#FFFFFF</color>
+    <color name="text_primary">#111B21</color>
+    <color name="text_secondary">#667781</color>
+    <color name="text_muted">#8696A0</color>
+    <color name="divider">#E9EDEF</color>
+    <color name="avatar_bg">#E1F5FE</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_light">#F0F2F5</color>
+    <color name="call_overlay_dark">#D9101A20</color>
+    <color name="tick_blue">#53BDEB</color>
+    <color name="tick_grey">#8696A0</color>
+    <color name="status_ring">#25D366</color>
+    <color name="locked_accent">#FF9800</color>
+    <color name="voice_wave">#075E54</color>
+</resources>

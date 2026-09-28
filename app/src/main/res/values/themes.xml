@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MyApplication" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/teal_header</item>
+        <item name="colorPrimaryDark">@color/teal_header_dark</item>
+        <item name="colorAccent">@color/accent_blue</item>
+        <item name="android:statusBarColor">@color/teal_header_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
